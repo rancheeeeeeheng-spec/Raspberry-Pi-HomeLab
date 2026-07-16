@@ -58,3 +58,5 @@ A documented Raspberry Pi 400 homelab built from scratch.
 ⬜ Jellyfin
 
 ⬜ Immich
+
+Last updated: 17 july 2026
